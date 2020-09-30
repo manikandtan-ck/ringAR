@@ -1,3 +1,8 @@
+![RingAR]
+=======================================================================
+using mediapipe to detect and track palm keypoints and project a 2D ring image on top of the palm for Augmented Reality Ring tryouts. Use @TheJLifeX's hand-gesture-recognition (https://gist.github.com/TheJLifeX/74958cc59db477a91837244ff598ef4a) to get palm keypoints. 
+
+
 ![MediaPipe](mediapipe/docs/images/mediapipe_small.png?raw=true "MediaPipe logo")
 =======================================================================
 
